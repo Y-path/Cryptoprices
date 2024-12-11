@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color:mediumblue;
+    color: white;
+    padding: 15px;
+    font-size: 2em;
+  }
+  
+  .nav a {
+    color: white;
+    text-decoration: none;
+  }
+
+  h1 {
+    color: rgb(4, 234, 255);
+    text-align: center;
+  }
+  h2 {
+    color: rgb(0, 255, 0);
+    text-align: center;
+  }
+
+  :root {
+    background-color:hotpink
+  }
+  
